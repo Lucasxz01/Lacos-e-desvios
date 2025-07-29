@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    inteiro numero,par,impar
+    inteiro numero
     escreva("Informe um número: ")
       leia(numero)
     enquanto(numero>0){
